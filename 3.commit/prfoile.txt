@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sksdlaudtjr@gmail.com
+gitID : sseok0904
